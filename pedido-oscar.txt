@@ -1,0 +1,14 @@
+Entrante:
+    Salmorejo.
+    Ensalada de caballa.
+1er plato: 
+    Carrillada de ternera con salsa española.
+    Marmitako.
+Postre:
+   Mousse de tres chocolate.
+   Sorbete de limón.
+Bebidas:
+   Cerveza cruzcampo.
+   Vino tinto Protos crianza.
+   Vino Blanco:Fragata.
+   Agua Mineral.
